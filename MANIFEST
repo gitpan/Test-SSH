@@ -9,5 +9,4 @@ lib/Test/SSH/Backend/Remote.pm
 lib/Test/SSH/Backend/OpenSSH.pm
 lib/Test/SSH/Patch/URI/ssh.pm
 
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
+META.yml                                 Module meta-data (added by MakeMaker)
